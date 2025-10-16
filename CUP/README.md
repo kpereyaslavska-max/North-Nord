@@ -100,3 +100,4 @@ ports:
 - If port 8888 is already in use, change the host port in `docker-compose.yml`
 - If you encounter permission issues with the notebooks directory, check the ownership and permissions
 
+
